@@ -101,4 +101,4 @@ In addition to your code, **you will also need to submit a video recording of yo
  - Update the preferences to exclude all preferences to show the warning message.
 
 ### Done! 🥳
-Congrats! Add, commit, and push your files to GitHub Classroom. Then, paste your commit hash and embed your recording in the Canvas assignment.
+Congrats! Add, commit, and push your files to GitHub Classroom. Then, embed your recording in the Canvas assignment.
